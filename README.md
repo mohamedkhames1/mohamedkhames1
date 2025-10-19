@@ -1,91 +1,16 @@
-<h1 align="center">👋 Hi, I'm Mohamed Khames</h1>
-<h3 align="center">🚀 Flutter Developer | Cross-Platform App Builder | Passionate about Crafting Elegant Mobile Experiences</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
----
+<div align="center">
+  <h1>
+    <b>Mohamed Khames Sayed</b>
+  </h1>
+  <blockquote>
+    <p>A passionate <b>Flutter Developer</b> crafting pixel-perfect, high-performance mobile applications that solve real-world problems.</p>
+  </blockquote>
+</div>
 
-### 🧠 About Me  
-I'm a **Flutter Developer** with a strong foundation in mobile development and a passion for building responsive, high-quality apps.  
-I believe clean architecture and smooth UI create the best user experience.  
-
-- 🎓 **B.Sc. in Computer Science**, Bani Suef University (2020 – 2024)  
-- 🧰 Specialized in **Flutter, Firebase, RESTful APIs, and Clean Architecture**  
-- 🔍 Experienced with **Cubit, BLoC, Provider**, and scalable state management  
-- 🧠 Always exploring new tech like **AI integration and automation tools**  
-- ✨ Love creating apps that solve real-world problems and feel great to use  
-
----
-
-### 🚀 Featured Projects  
-
-#### 🛠️ Rush Rescue *(Private Project)*  
-> 🚗 An advanced emergency roadside assistance app.  
-> - Connects stranded drivers with nearby rescuers in real time.  
-> - Includes image & voice chat, live map tracking, and secure data deletion.  
-> - Built with **Flutter**, **Firebase**, **Cloudinary**, **Mapbox**, and **Cubit**.  
-> 🧩 *Codebase is private due to confidentiality, but this project highlights my full-stack Flutter capabilities.*
-
-#### 📿 [Islami App](https://www.amazon.com/dp/B0D6L291NY/ref=apps_sf_sta)  
-> 🌙 Multifunctional Islamic app featuring **Quran, Hadiths, Prayer Times, and Radio**.  
-> ✅ Published on **Amazon Appstore** with multi-language support and offline capabilities.
-
-#### 🤖 [AI Chat](https://github.com/mohamedkhames1/chat_ai)  
-> 💬 Chat with **Google Gemini AI** — elegant chat UI with avatars, animations, and context-aware replies.
-
-#### 🛒 [E-commerce App](https://github.com/mohamedkhames1/E-commerce-app.git)  
-> 🛍️ Full e-commerce solution with product listing, authentication, and cart system.  
-> Focused on clean UI and API integration using modern Flutter principles.
-
----
-
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-00BFA5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bloc/Cubit-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedkhames1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkhames1&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-</p>
-
----
-
-### 🧩 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhames1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-### ✨ Typing Animation
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFA5&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cross+Platform+App+Builder;Clean+Architecture+Fan;UI%2FUX+Lover;Always+Learning+New+Things" />
-  </a>
-</p>
-
----
-
-### 🏅 Courses & Certificates  
-- 📘 **The Complete Flutter Development Guide [2024 Edition]** – *Udemy*  
-- 🔹 **Flutter Advanced Course (Bloc & MVVM Pattern)** – *Udemy (Arabic)*  
-- 🧩 **Flutter Clean Architecture** – *Udemy (Arabic)*  
-- 💡 **ITI Internship** – *Front-End & Mobile Cross Platform Developer (Mar–Jul 2025)*  
-
----
-
-### 📫 Connect With Me
 <p align="center">
   <a href="mailto:m7md5mes2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohamed-khames-346456223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -94,11 +19,110 @@ I believe clean architecture and smooth UI create the best user experience.
 
 ---
 
-### 🐍 Contribution Snake
+<h2 align="center">🛠️ My Tech Stack & Tools 🛠️</h2>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <h3>Core Expertise</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+      </p>
+    </td>
+    <td align="center">
+      <h3>State Management</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Bloc/Cubit-4A90E2?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc/Cubit"/>
+        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/>
+        <img src="https://img.shields.io/badge/Provider-007ACC?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Backend & Cloud</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+        <img src="https://img.shields.io/badge/RESTful%20APIs-00BFFF?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs"/>
+      </p>
+    </td>
+    <td align="center">
+      <h3>Tools & Platforms</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+        <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🚀 My Featured Projects 🚀</h2>
+<details>
+  <summary><strong>🚗 Rush Rescue - Emergency Roadside Assistance App</strong></summary>
+  <br/>
+  <p>An advanced emergency app connecting stranded drivers with nearby rescuers. It features real-time, location-aware requests, and a full chat system with image, voice, and live location sharing.</p>
+  <ul>
+    <li><b>Tech:</b> Flutter, Firebase, Cloudinary, Mapbox, Cubit State Management.</li>
+    <li><b>Status:</b> Private codebase, developed to showcase full-stack Flutter capabilities.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>📿 Islami App - Published on Amazon Appstore</strong></summary>
+  <br/>
+  <p>A multifunctional Islamic application featuring Quran, prayer times, Hadiths, and radio functionalities. Successfully published on the Amazon Appstore.</p>
+  <ul>
+    <li><b>Tech:</b> Flutter, Local Assets, API Integration.</li>
+    <li><b>Link:</b> <a href="https://www.amazon.com/dp/B0D6L291NY/ref=apps_sf_sta">View on Amazon Appstore</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🤖 AI Chat with Google Gemini</strong></summary>
+  <br/>
+  <p>A modern chat application that allows users to interact with Google's Gemini AI. The app boasts a beautiful, modern UI with smooth animations.</p>
+  <ul>
+    <li><b>Tech:</b> Flutter, Google Generative AI API, Modern UI/UX.</li>
+    <li><b>Link:</b> <a href="https://github.com/mohamedkhames1/chat_ai">View on GitHub</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🛒 E-commerce Application</strong></summary>
+  <br/>
+  <p>A complete e-commerce app showcasing products, user authentication, and cart functionality. It integrates a responsive UI with a backend API for a seamless shopping experience.</p>
+  <ul>
+    <li><b>Tech:</b> Flutter, RESTful APIs, State Management.</li>
+    <li><b>Link:</b> <a href="https://github.com/mohamedkhames1/E-commerce-app.git">View on GitHub</a></li>
+  </ul>
+</details>
+
+---
+
+<h2 align="center">📊 My GitHub Stats & Activity 📊</h2>
 <p align="center">
-  <img src="https://github.com/mohamedkhames1/mohamedkhames1/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedkhames1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkhames1&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhames1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFA5&center=true&vCenter=true&width=600&lines=Flutter+Developer;Clean+Architecture+Advocate;Building+Real-World+Solutions;Passionate+About+Great+UI%2FUX" />
+  </a>
 </p>
 
 ---
 
-⭐ From [Mohamed Khames](https://github.com/mohamedkhames1)
+<h2 align="center">🐍 My Contribution Graph 🐍</h2>
+<p align="center">
+  <img src="https://github.com/mohamedkhames1/mohamedkhames1/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <small>⭐ Crafted with passion by Mohamed Khames ⭐</small>
+</p>
