@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mohamed Khames</h1>
-<h3 align="center">🚀 Flutter Developer | Cross-Platform App Builder | UI/UX Enthusiast</h3>
+<h3 align="center">🚀 Flutter Developer | Cross-Platform App Builder | Passionate about Crafting Elegant Mobile Experiences</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
@@ -7,32 +7,37 @@
 
 ---
 
-### 🧠 About Me
-- 🎓 **B.Sc. in Computer Science** – Bani Suef University (2020 – 2024)  
-- 💼 **Flutter Developer** passionate about creating scalable and elegant mobile apps  
-- ⚙️ Skilled in **Dart, Flutter, Firebase, Clean Architecture, and RESTful APIs**  
-- 🧩 Love exploring new technologies like AI, APIs, and automation tools  
-- 🎯 Always improving my problem-solving skills & contributing to open-source  
+### 🧠 About Me  
+I'm a **Flutter Developer** with a strong foundation in mobile development and a passion for building responsive, high-quality apps.  
+I believe clean architecture and smooth UI create the best user experience.  
+
+- 🎓 **B.Sc. in Computer Science**, Bani Suef University (2020 – 2024)  
+- 🧰 Specialized in **Flutter, Firebase, RESTful APIs, and Clean Architecture**  
+- 🔍 Experienced with **Cubit, BLoC, Provider**, and scalable state management  
+- 🧠 Always exploring new tech like **AI integration and automation tools**  
+- ✨ Love creating apps that solve real-world problems and feel great to use  
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects  
 
-#### 🛠️ Rush Rescue *(Private Project)*
+#### 🛠️ Rush Rescue *(Private Project)*  
 > 🚗 An advanced emergency roadside assistance app.  
-> - Connects drivers with nearby rescuers in real-time.  
-> - Live location tracking, image & voice chat, and request history.  
-> - Built with **Flutter**, **Firebase**, **Mapbox**, and **Cloudinary**.  
-> - Implements **Cubit** state management and clean architecture.  
-> 🧩 *(Codebase is private due to confidentiality)*
-#### 📿 [Islami App](https://www.amazon.com/dp/B0D6L291NY/ref=apps_sf_sta)
-> Multifunctional Islamic app (Quran, Hadiths, Prayer Times, Radio) published on **Amazon Appstore**.
+> - Connects stranded drivers with nearby rescuers in real time.  
+> - Includes image & voice chat, live map tracking, and secure data deletion.  
+> - Built with **Flutter**, **Firebase**, **Cloudinary**, **Mapbox**, and **Cubit**.  
+> 🧩 *Codebase is private due to confidentiality, but this project highlights my full-stack Flutter capabilities.*
 
-#### 🤖 [AI Chat](https://github.com/mohamedkhames1/chat_ai)
-> Chat with **Gemini AI (Google Generative AI)** — smooth UI with avatars and animations.
+#### 📿 [Islami App](https://www.amazon.com/dp/B0D6L291NY/ref=apps_sf_sta)  
+> 🌙 Multifunctional Islamic app featuring **Quran, Hadiths, Prayer Times, and Radio**.  
+> ✅ Published on **Amazon Appstore** with multi-language support and offline capabilities.
 
-#### 🛒 [E-commerce App](https://github.com/mohamedkhames1/E-commerce-app.git)
-> Full e-commerce app with authentication, cart, and clean API integration.
+#### 🤖 [AI Chat](https://github.com/mohamedkhames1/chat_ai)  
+> 💬 Chat with **Google Gemini AI** — elegant chat UI with avatars, animations, and context-aware replies.
+
+#### 🛒 [E-commerce App](https://github.com/mohamedkhames1/E-commerce-app.git)  
+> 🛍️ Full e-commerce solution with product listing, authentication, and cart system.  
+> Focused on clean UI and API integration using modern Flutter principles.
 
 ---
 
@@ -41,40 +46,48 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-00BFA5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bloc-Cubit-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bloc/Cubit-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedkhames1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkhames1&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedkhames1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkhames1&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
 </p>
 
 ---
 
 ### 🧩 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhames1&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhames1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
 
-### ✨ Animated Typing Effect
+### ✨ Typing Animation
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFA5&center=true&vCenter=true&lines=Flutter+Developer;Cross+Platform+App+Builder;Clean+Architecture+Fan;Always+Learning+New+Things">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFA5&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cross+Platform+App+Builder;Clean+Architecture+Fan;UI%2FUX+Lover;Always+Learning+New+Things" />
   </a>
 </p>
 
 ---
 
+### 🏅 Courses & Certificates  
+- 📘 **The Complete Flutter Development Guide [2024 Edition]** – *Udemy*  
+- 🔹 **Flutter Advanced Course (Bloc & MVVM Pattern)** – *Udemy (Arabic)*  
+- 🧩 **Flutter Clean Architecture** – *Udemy (Arabic)*  
+- 💡 **ITI Internship** – *Front-End & Mobile Cross Platform Developer (Mar–Jul 2025)*  
+
+---
+
 ### 📫 Connect With Me
 <p align="center">
-  <a href="mailto:m7md5mes2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:m7md5mes2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohamed-khames-346456223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/mohamedkhames1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
